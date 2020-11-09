@@ -1,0 +1,2 @@
+comandos inicial git init
+oi jeje
